@@ -1,0 +1,13 @@
+{
+  "name": "hogehoge",
+  "description": "プロジェクトのビルド環境定義",
+  "version": "1.0.0",
+  "author": "RUI TANAKA",
+  "dependencies": {
+    "grunt-contrib-copy": "~0.3.2",
+    "grunt-compass": "~0.3.7",
+    "grunt-csso": "~0.2.1",
+    "grunt-macreload": "~0.1.1",
+    "grunt-reload": "~0.2.0"
+  }
+}
