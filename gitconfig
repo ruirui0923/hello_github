@@ -1,0 +1,19 @@
+[user]
+	name = ruirui0923
+	email = au_288da@yahoo.co.jp
+
+[color]
+  ui = auto
+
+[alias]
+  co = checkout
+  ci = commit
+  cia = commit --amend
+  st = status
+  br = branch
+  l = log --oneline -n 20
+  lo = log --stat --summary
+  graph = log --graph --pretty=oneline
+
+[core]
+	excludesfile = /Users/A40094/.gitignore
