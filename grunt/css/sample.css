@@ -1,0 +1,19 @@
+h1 {
+	color: black;
+}
+.btn {
+	box-sizing: border-box;
+	margin: 0 auto;
+	width: 280px;
+	height: 30px;
+	background: #1f3881;
+	color: #3c2600;
+	text-shadow: 1px 0 0 #ffffff,-1px 0 0 #ffffff,0 1px 0 #ffffff,0 -1px 0 #ffffff;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0 1px 5px #9092bd inset, 0 -1px 5px #9092bd inset, 1px 0 5px #9092bd inset, -1px 0 5px #9092bd inset,
+	            1px 0 1px #173488, -1px 0 1px #173488, 0 1px 1px #173488, 0 -1px 1px #173488,
+	            1px 0 0 #ffde7a,-1px 0 0 #ffde7a,0 1px 0 #ffde7a,0 -1px 0 #ffde7a;
+	padding-top: 4px;
+	font-size: 16px;
+}
